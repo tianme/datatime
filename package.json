@@ -1,7 +1,7 @@
 {
-  "name": "picker",
-  "version": "0.1.0",
-  "private": true,
+  "name": "vue-stone-picker",
+  "version": "0.1.1",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,6 +10,7 @@
   "dependencies": {
     "vue": "^2.5.17"
   },
+  "main": "./dist/vue-stone-picker",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.0.1",
     "@vue/cli-plugin-eslint": "^3.0.1",
